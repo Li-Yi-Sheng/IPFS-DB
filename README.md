@@ -16,6 +16,10 @@
 3. **高可用性與容錯**：結合 IPFS Cluster 與 Reed-Solomon 編碼  
 4. **易於管理**：透過 IPNS 提供固定入口，快速定位檔案  
 ## 🛠️ 開發工具與程式語言
+- **編輯器**：VS Code  
+- **資料庫**：IPFS + IPFS Cluster
+- **後端語言**：Python
+- **前端技術**：Python Tkinter
 
 ## 🗄️ 資料庫設計
 
